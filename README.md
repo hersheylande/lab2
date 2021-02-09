@@ -1,2 +1,2 @@
 # lab2
-![](img/Lab 2.png)
+![](img/Lab_2.png)
